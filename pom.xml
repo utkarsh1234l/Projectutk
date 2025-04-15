@@ -29,8 +29,8 @@
               <searchPath>src/main/resources/Release 1.0.0</searchPath>
                         <url>jdbc:mysql://localhost:3306/liquibase_test</url>
                         <driver>com.mysql.cj.jdbc.Driver</driver>
-                        <username>root</username>
-                        <password>newpassword</password>
+                        <username>db</username>
+                        <password></password>
                     </configuration>
                 </plugin>
             </plugins>
@@ -49,8 +49,8 @@
               <searchPath>src/main/resources/Release 1.0.0</searchPath>
                         <url>jdbc:mysql://localhost:3306/lb_test</url>
                         <driver>com.mysql.cj.jdbc.Driver</driver>
-                        <username>root</username>
-                        <password>newpassword</password>
+                        <username>db</username>
+                        <password></password>
                     </configuration>
                 </plugin>
             </plugins>
